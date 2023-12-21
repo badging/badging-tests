@@ -16,8 +16,6 @@ Project access is addressed in our project through various efforts. Through thes
 
 Communication Transparency is addressed in our project through a variety of different efforts. Through these efforts, we aim to support transparency for all. Specific efforts in our project include:
 
-- Specific points on how your project addresses communication transparency.
-
 ### [Newcomer Experiences](https://chaoss.community/?p=4891)
 
 The newcomer experience is addressed in our project through a variety of different efforts. Through these efforts, we aim to support the newcomer experience for all new members. Specific efforts in our project include:
